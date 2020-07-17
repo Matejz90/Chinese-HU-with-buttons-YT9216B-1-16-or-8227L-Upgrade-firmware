@@ -31,7 +31,7 @@ Dissasembly back plate and disconnect ribbon cable from front USB socket to moth
 # OK lets go!  
 1.) First reboot PC to **driver signature disable mode**. Go to start, click shift + windows key on keyboard, and click power - restart. Go to troubleshoot - advanced options - startup settings - restart. When PC reboots hit F7 button  
 
-2.) Then extract SP_Driver_v2.0 from zip and install driverinstall.exe **with admin rights** (right click - run as administrator). You need few times click allow when installing drivers (or something in box with x)  
+2.) Then extract SP_Driver_v2.0 from zip and **install driverinstall.exe with admin rights** (right click - run as administrator). You need few times click allow when installing drivers (or something in box with x)  
 
 3.) Extract YT9218_00002_V004_20190912  
 

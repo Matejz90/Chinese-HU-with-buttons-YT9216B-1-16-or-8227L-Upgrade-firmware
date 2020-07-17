@@ -8,14 +8,14 @@ Because of one week searching like idiot on internet, mostly on Russian sites i 
 - USB flash with XYAUTOUPG folder - hell yeah haha (no go) 
 - flash with SP_Flash_Tool - are you insane? (no go)
 - trying boot with pressed buttons - why will you do that?
-- connecting to pc - not even bing bing sound when you connect something
+- connecting to PC - not even bing bing sound like when you connect something
 - when you reset HU connected to PC you get USB not recognized popup and in device manager no id or description for device 
-- and other nasty stuff...  
+- other nasty stuff...  
   
 #### Conclusion:  
-Because back 4 pin port is connected to front USB socket, something interfer connection and cannot be flashed ordinary way. Not even with 6 pin port on back.  
+Because rear 4 pin port is connected to front USB socket, something interfer connection and cannot be flashed ordinary way. Not even with 6 pin port on back.  
 #### Solution: 
-Dissasembly back plate and disconnect ribbon cable from front USB socket to motherboard and flash in ordinary way  
+Dissasembly rear plate and disconnect ribbon cable from front USB socket to motherboard and flash in ordinary way  
 
 # Prerequisites:  
 1.) Screwdriver  

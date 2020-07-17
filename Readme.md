@@ -37,11 +37,19 @@ Dissasembly back plate and disconnect ribbon cable from front USB socket to moth
 7.) In SP_Flash_Tool_v5.1924_Win hit Download button  
 8.) Connect male-male USB cable with cable in step 6.  
 9.) Voila. Your PC start flashing stupid HU. Wait few minutes till SP_Flash_Tool_v5.1924_Win show new popup with flash successfull image. Disconnect cables and reboot HU with disconnecting PSU. Reconnect power and wait till HU load all stuff and boot to loader.  
-10.) Change language from Russian to whatever you want. 
-11.) Go to Car Settings - Factory Settings (PIN: 8888) - Color Setting and scroll to bottom and change slider AVDD to 2. With this you will eliminate screen flickering.  
+<p align="center">
+  <img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/110167055_284396332837423_7813481836340363955_n.jpg?raw=true">  
+</p>  
+10.) Change language from Russian to whatever you want.  
+11.) Go to Car Settings - Factory Settings (PIN: 8888) - Color Setting and scroll to bottom and change slider AVDD to 2. With this you will eliminate screen flickering.   
+<p align="center"><img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/110167055_284396332837423_7813481836340363955_n.jpg?raw=true"></p>  
 12.) Go to Play Store, login, and update all apps.  
   
 # Addons  
 Now you can change Radio apps if you don't like existing (in this version contain app with RDS), launcher, etc...If you want to change files in download Root Explorer Classic and use it  
   
 There you have launchers (you can install all of thems and use whitch you want. You can save favorite with alway use when HU reboots): https://4pda.ru/forum/index.php?act=findpost&pid=80952587&anchor=Spoil-80952587-13 
+<p align="center"><img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/17417269.jpg?raw=true"></p>
+<p align="center">
+pic from 4PDA
+</p>

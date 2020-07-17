@@ -35,7 +35,7 @@ Dissasembly rear plate and disconnect ribbon cable from front USB socket to moth
 
 3.) Extract YT9218_00002_V004_20190912  
 
-4.) Extract SP_Flash_Tool_v5.1924_Win and **run like administrator**. In **Download Agent** field link **MTK_AllInOne_DA.bin** and in **Scatter-loading file** link from extracted YT9218_00002_V004_20190912 **MT3367_Android_scatter.txt**. **Deselect preloader if is selected!!!!!**  
+4.) Extract SP_Flash_Tool_v5.1924_Win and **run like administrator**. In **Download Agent** field **link MTK_AllInOne_DA.bin** and in **Scatter-loading file link MT3367_Android_scatter.txt** from extracted YT9218_00002_V004_20190912. **Deselect preloader if is selected!!!!!**  
 
 5.) Take apart your HU. Unscrew 4 screws on back plate. Then you will see one **ribbon cable (flat cable)** that goes from LCD site where is USB socket to motherboard. On motherboard **disconnect this cable**.
 <p align="center"><img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/109332995_616076752676737_7495979978352401370_n.jpg?raw=true"></p>

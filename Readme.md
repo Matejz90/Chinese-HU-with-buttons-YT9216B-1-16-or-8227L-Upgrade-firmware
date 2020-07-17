@@ -1,5 +1,5 @@
 # Story  
-Because of one week searching like idiot on internet, mostly on Russian sites i can now read Cyrilic and speak something (Nazdrovje!!!) i found way how to update Chinese crap HU to little bit decent software with ROOT, TWRP, and better radio app with RDS.  
+Because of one week searching like idiot on internet, mostly on Russian sites i can now read Cyrilic and speak something (Nazdrovje!!!) i found a way how to update Chinese crap HU to little bit decent software with ROOT, TWRP, and better radio app with RDS. Thanks to 4PDA forum and users!  
   
 #### If you have HU (head unit) with phisical buttons and USB socket on front then this tutorial is for you because you have similar crap like i have.  
 <p align="center"><img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/107592809_939035733270876_8325993056352509955_n.jpg?raw=true"></p>

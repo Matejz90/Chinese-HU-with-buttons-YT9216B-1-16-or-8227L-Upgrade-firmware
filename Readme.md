@@ -45,7 +45,7 @@ Dissasembly rear plate and disconnect ribbon cable from front USB socket to moth
 
 7.) In SP_Flash_Tool_v5.1924_Win hit Download button  
 
-8.) Connect male-male USB cable with cable in step 6.  
+8.) Connect male-male USB cable with cable in step 6 and power on HU with ACC and B+ wire connected to plus terminal on PSU and black wire to negative terminal.  
 
 9.) Voila. Your PC start flashing stupid HU. Wait few minutes till SP_Flash_Tool_v5.1924_Win show new popup with flash successfull image. Disconnect cables and reboot HU with disconnecting PSU. Reconnect power and **wait till HU load all stuff and boot to loader**.
 <p align="center"><img width="460" height="300" src="https://github.com/Matejz90/Chinese-HU-with-buttons-YT9216B-1-16-or-8227L-Upgrade-firmware/blob/master/Pictures/109624944_211956326744553_839063327709046990_n.jpg?raw=true"></p>

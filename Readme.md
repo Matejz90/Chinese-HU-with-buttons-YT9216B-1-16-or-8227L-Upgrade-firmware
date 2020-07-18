@@ -21,7 +21,7 @@ Dissasembly rear plate and disconnect ribbon cable from front USB socket to moth
 1.) Screwdriver  
 2.) HU with phisical buttons on front and USB socket, model 8227L or YT9216B with 1GB ram and 16GB rom. Mine has come with YT9216B_00002_V_004_20190826 version, Android 8.1 Go (chinese scam because it isn't 8.1) and MCU 3.1  
 3.) You need to make male-male USB cable (or buy it). You can take two old cables, cut booth and solder or tangle wires together. Take care of color matching (Black-black, White-white etc.)  
-4.) Download zip from [4pda](https://4pda.ru/forum/index.php?showtopic=936535&st=14340#entry89982813) with name (direct link to gdrive): [YT9218_00002_V004_20190912 (UI1) ROOT , TRPW](https://4pda.ru/pages/go/?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1eooFBvIp-W-OnpAq6WPuqgG6cDhd2FGv&e=89982813&f=https%3A%2F%2F4pda.ru%2Fforum%2Findex.php%3Fshowtopic%3D936535%26st%3D14340%23entry89982813) from user [Maxkir](https://4pda.ru/forum/index.php?showuser=8537307) (tnx dude)  
+4.) Download zip from [4pda](https://4pda.ru/forum/index.php?showtopic=936535&st=14340#entry89982813) (direct link to gdrive): [YT9218_00002_V004_20190912 (UI1) ROOT , TRPW](https://4pda.ru/pages/go/?u=https%3A%2F%2Fdrive.google.com%2Fopen%3Fid%3D1eooFBvIp-W-OnpAq6WPuqgG6cDhd2FGv&e=89982813&f=https%3A%2F%2F4pda.ru%2Fforum%2Findex.php%3Fshowtopic%3D936535%26st%3D14340%23entry89982813) from user [Maxkir](https://4pda.ru/forum/index.php?showuser=8537307) (tnx dude)  
 5.) Download [SP_Flash_Tool_v5.1924_Win](https://spflashtools.com/windows/sp-flash-tool-v5-1924)  
 6.) Download [SP_Driver_v2.0](https://androidfilehost.com/?fid=24438995911977169)  
 7.) Windows 10 x64 PC  
